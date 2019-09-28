@@ -1,0 +1,14 @@
+{
+  "name": "my-vp",
+  "version": "1.0.0",
+  "description": "my test vp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vp-chenguohua"
+  ],
+  "author": "chenguohua",
+  "license": "ISC"
+}
